@@ -19,11 +19,7 @@ Welcome to my GitHub profile! I'm a passionate developer and problem solver with
 ---
 
 ## 🌟 Current Projects
-- 🎨 **Gamified Learning App for Children (Ages 3–7):**  
-  A voice-based, interactive app to teach manners through storytelling and games.  
 
-- 🎭 **Marketplace for Local Arts and Crafts in Sri Lanka:**  
-  Connecting artists with hotels and individuals using a geolocation-powered map.  
 
 - 🛫 **Airport Travel Assistant App:**  
   Simplifying the travel experience for passengers with real-time updates and assistance.
