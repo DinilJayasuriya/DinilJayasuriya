@@ -32,8 +32,6 @@ Welcome to my GitHub profile! I'm a passionate developer and problem solver with
 ---
 
 ## 💬 Let's Connect
-- 🌐 [Your Portfolio Website](#)
-- 🐦 [Twitter](#)
 - 💼 [LinkedIn](#)
 
 ---
