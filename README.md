@@ -4,13 +4,13 @@ Welcome to my GitHub profile! I'm a passionate developer and problem solver with
 
 ---
 
-## 🚀 About Me
+## About Me
 - 💼 I'm working on exciting projects that aim to solve real-world problems.
 - 🎓 I'm also collaborating with a team of undergraduates to develop innovative solutions.
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 - **Languages:** Java, Python, JavaScript, Dart  
 - **Frameworks & Libraries:** Flutter, Spring Boot, React  
 - **Databases:** MySQL, MongoDB  
@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate developer and problem solver with
 
 ---
 
-## 🌟 Current Projects
+## Current Projects
 
 
 - 🛫 **Airport Travel Assistant App:**  
@@ -26,13 +26,8 @@ Welcome to my GitHub profile! I'm a passionate developer and problem solver with
 
 ---
 
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
----
-
-## 💬 Let's Connect
-- 💼 [LinkedIn](#)
+## Let's Connect
+- 
 
 ---
 
